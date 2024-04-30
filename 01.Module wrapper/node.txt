@@ -1,0 +1,23 @@
+//.......Node js documentation....//
+
+what is Node Js?
+Runtime environment that allows you to execute JS code outside of the browser. Built on an event driven,non blocking I/O model 
+
+-> lightweight and efficient for scalable newtwork application
+
+Here's the key features of an Node JS.
+
+-> Asynchronous and event driven
+allows to handled multiple opertaions.
+
+
+->Cross platform(windows, Mac, Linux)
+
+-> Server side dev
+
+
+Commonly used by ,
+
+-> builed web services 
+-> API's
+-> Real Time Applications

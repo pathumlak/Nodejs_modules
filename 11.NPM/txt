@@ -1,0 +1,12 @@
+// npm i --save-dev  => install
+// npm uninstall nodemon =>uninstall 
+
+
+//npm init
+//give the package name
+
+
+//after rename the test as start and "node index.js"
+//"dev":"nodemon index .js"
+
+//now we can run that file "npm run dev"
